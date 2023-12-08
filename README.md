@@ -1,2 +1,2 @@
 # My Final Project
-This is a data chart that shows the top 10 most populated countries(as of July 1, 2023)
+This is a bar chart that will show the top 10 most populated countries(as of July 1, 2023)
